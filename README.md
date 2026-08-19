@@ -10,4 +10,4 @@ I am a passionate Data Science and Artificial Intelligence undergraduate, driven
 #### 💻 Technical Arsenal
 * **Languages & Web:** Python, HTML, CSS (Front-End Development).
 * **Data & Algorithms:** Data analysis, statistical computing, and mathematical modeling.
-* **Tools & OS:** Git, Linux environment.
+* **Tools & OS:** Git, Linux environment
